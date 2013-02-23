@@ -2,20 +2,19 @@
 
 ## Features:
 
-* Solves Incompressible Euler Equations
-  * Semi-Lagrangian solver with Pressure-projection
+* Solves Incompressible Euler Equations with:
+  * Semi-Lagrangian solver with tri-linear interpolation and pressure-projection
   * 3-D Marker-And-Cell staggered grid
   * Gauss-Seidel iteration with Successive Over-Relaxation
-* Scalar advection with buoyancy
-  * Tri-linear interpolation
+  * Scalar advection
+  * Buoyancy
   * Neumann boundary conditions
-* No need for input parameters...
 * Graphics
-  * X11 interface
   * Volumetric rendering with self-shadowing
+  * X11 interface
   * Variable zoom factor
 * I/O:
-  * Performs render/display for precalculation
+  * Performs render pass for precalculation
   * Reads back rendered files for animation
   * Loops back to start on completion
 
