@@ -51,3 +51,7 @@ Just for fun, pass the program its own source, i.e.
 
     $ ./fluid 4 < fluid.c > self_run.dat
     $ ./fluid 4 < self_run.dat
+
+### Notes
+
+The interface has not aged well. The timing is all off. Please. It was a strange time in my life. Have pity.
