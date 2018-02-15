@@ -55,3 +55,7 @@ Just for fun, pass the program its own source, i.e.
 ### Notes
 
 The interface has not aged well. The timing is all off. Please. It was a strange time in my life. Have pity.
+
+### License
+
+LOL. WTFPL.
