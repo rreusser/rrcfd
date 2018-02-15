@@ -1,5 +1,7 @@
 # RRCFD 0.0.0b
 
+![M](./docs/m.gif)
+
 ## Features:
 
 * Solves Incompressible Euler Equations with:
