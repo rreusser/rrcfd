@@ -6,7 +6,7 @@
 
 * Solves Incompressible Euler Equations with:
   * Semi-Lagrangian solver with tri-linear interpolation and pressure-projection
-  * 3-D Marker-And-Cell staggered grid
+  * 3-D staggered grid
   * Gauss-Seidel iteration with Successive Over-Relaxation
   * Scalar advection
   * Buoyancy
